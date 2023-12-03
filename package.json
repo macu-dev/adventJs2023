@@ -1,0 +1,14 @@
+{
+  "name": "adventjs2023",
+  "version": "1.0.0",
+  "description": "Retos de javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "macu",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
