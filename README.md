@@ -58,5 +58,5 @@ const materials = 'psli'
 
 manufacture(gifts, materials) // []
 ```
-### Solución - [Ver](https://github.com/macu-dev/adventJs2023/blob/main/Day1/day1.js)
+### Solución - [Ver](https://github.com/macu-dev/adventJs2023/blob/main/Day2/day2.js)
 
